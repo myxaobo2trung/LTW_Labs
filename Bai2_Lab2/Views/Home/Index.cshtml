@@ -1,0 +1,109 @@
+﻿@{
+    ViewData["Title"] = "Trang Chủ";
+}
+
+<div id="azureCarousel" class="carousel slide mb-3  overflow-hidden" data-bs-ride="carousel">
+
+    <div class="carousel-indicators">
+        <button type="button" data-bs-target="#azureCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+        <button type="button" data-bs-target="#azureCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    </div>
+
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <div class="azure-hero-box d-flex flex-column align-items-center justify-content-center text-white text-center p-4">
+
+                <div class="d-flex flex-wrap align-items-center justify-content-center gap-3 mb-3">
+                    <h2 class="display-6 fw-normal mb-0">Microsoft Azure</h2>
+                    <div class="vr bg-secondary d-none d-md-block" style="height: 45px; width: 2px;"></div>
+
+                    <div class="d-flex align-items-center gap-3">
+                        <img src="" alt="App Service" class="hero-icon">
+                        <img src="" alt="Logic App" class="hero-icon">
+                        <img src="" alt="SQL DB" class="hero-icon">
+                        <img src="" alt="Table Storage" class="hero-icon">
+                    </div>
+                </div>
+
+                <div class="d-flex flex-wrap align-items-center justify-content-center gap-2">
+                    <span class="fs-6">Learn how Microsoft's Azure cloud platform allows you to build, deploy, and scale web apps.</span>
+                    <a href="https://azure.microsoft.com/en-us/" class="btn btn-light btn-sm fw-bold px-3">Learn More</a>
+                </div>
+
+            </div>
+        </div>
+        <div class="carousel-item">
+            <div class="azure-hero-box d-flex flex-column align-items-center justify-content-center text-white text-center p-4">
+                <h2 class="display-6 fw-normal mb-2">ASP.NET Core MVC</h2>
+                <p class="fs-6">Azure</p>
+                <a href="https://azure.microsoft.com/en-us/" class="btn btn-light btn-sm fw-bold px-3">Learn More</a>
+            </div>
+        </div>
+
+    </div>
+
+    <button class="carousel-control-prev" type="button" data-bs-target="#azureCarousel" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#azureCarousel" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </button>
+</div>
+<div class="product-section mb-5">
+    <h3 class="fw-normal mb-4">Danh sách sản phẩm</h3>
+    <div class="row g-4">
+        <div class="col-lg-3 col-md-6 col-sm-6">
+            <a asp-controller="Product" asp-action="Detail" asp-route-id="1" class="text-decoration-none text-dark">
+            <div class="card h-100 product-card p-3 text-center border">
+                <div class="product-img-wrapper d-flex align-items-center justify-content-center mb-3">
+                    <img src="~/images/images.jpg" class="img-fluid product-img" alt="Product Name 1">
+                </div>
+                <div class="card-body p-0">
+                    <h5 class="card-title fs-6 fw-normal mb-0">Product Name 1</h5>
+                </div>
+            </div>
+            </a>
+        </div>
+
+        <div class="col-lg-3 col-md-6 col-sm-6">
+            <a asp-controller="Product" asp-action="Detail" asp-route-id="2" class="text-decoration-none text-dark">
+            <div class="card h-100 product-card p-3 text-center border">
+                    <div class="product-img-wrapper d-flex align-items-center justify-content-center mb-3">
+                        <img src="~/images/images.jpg" class="img-fluid product-img" alt="Product Name 2">
+                    </div>
+                    <div class="card-body p-0">
+                        <h5 class="card-title fs-6 fw-normal mb-0">Product Name 2</h5>
+                    </div>
+                </div>
+            </a>
+        </div>
+
+        <div class="col-lg-3 col-md-6 col-sm-6">
+            <a asp-controller="Product" asp-action="Detail" asp-route-id="3" class="text-decoration-none text-dark">
+            <div class="card h-100 product-card p-3 text-center border">
+                <div class="product-img-wrapper d-flex align-items-center justify-content-center mb-3">
+                    <img src="~/images/images.jpg" class="img-fluid product-img" alt="Product Name 3">
+                </div>
+                <div class="card-body p-0">
+                    <h5 class="card-title fs-6 fw-normal mb-0">Product Name 3</h5>
+                </div>
+            </div>
+            </a>
+        </div>
+
+        <div class="col-lg-3 col-md-6 col-sm-6">
+             <a asp-controller="Product" asp-action="Detail" asp-route-id="4" class="text-decoration-none text-dark">
+            <div class="card h-100 product-card p-3 text-center border">
+                <div class="product-img-wrapper d-flex align-items-center justify-content-center mb-3">
+                    <img src="~/images/images.jpg" class="img-fluid product-img" alt="Product Name 4">
+                </div>
+                <div class="card-body p-0">
+                    <h5 class="card-title fs-6 fw-normal mb-0">Product Name 4</h5>
+                </div>
+            </div>
+            </a>    
+        </div>
+    </div>
+</div>

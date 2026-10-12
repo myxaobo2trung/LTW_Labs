@@ -1,0 +1,15 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["About"] = "Thong tin lien he";
+}
+<!--Day la Bootstrap -->
+<div class="alert alert-danger">
+    <h1>@ViewData["About"]</h1>
+    <hr />
+    <h2>Welcome to @ViewBag.name</h2>
+    <h2>Class: @ViewData["class"]</h2>
+    <h2>Mon: @TempData["mon"]</h2>
+</div>
+

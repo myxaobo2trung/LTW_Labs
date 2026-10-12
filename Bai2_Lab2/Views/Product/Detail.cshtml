@@ -1,0 +1,35 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@model Bai2_Lab2.Models.Product
+@{
+    ViewData["Title"] = "Chi tiết " + Model.name;
+}
+<div class="container my-5">
+    <nav aria-label="breadcrumb" class="mb-4">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a asp-controller="Home" asp-action="Index">Trang Chủ</a></li>
+            <li class="breadcrumb-item active">@Model.name</li>
+        </ol>
+    </nav>
+
+    <div class="row g-5">
+        <div class="col-md-5 text-center">
+            <div class="border rounded p-4 bg-white shadow-sm">
+                <img src="@Model.imgUrl" alt="@Model.name" class="img-fluid" style="max-height: 350px; object-fit: contain;" />
+            </div>
+        </div>
+
+
+        <div class="col-md-7">
+            <h2 class="fw-bold mb-3">@Model.name</h2>
+    
+
+            <div class="d-flex gap-3">
+                <button class="btn btn-primary btn-lg px-4">Add your bag</button>
+                <a asp-controller="Home" asp-action="Index" class="btn btn-outline-secondary btn-lg">Return</a>
+            </div>
+        </div>
+    </div>
+</div>
