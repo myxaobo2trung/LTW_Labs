@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href ="/css/LayoutHome.css" rel="stylesheet"/>
+</head>
+<body>
+    <div id="wrapper">
+        <div id="navbar">
+            <ul>
+                <li><a href="/Product/Index">Danh sách sản phẩm</a></li> 
+                <li><a href="/Product/Search">Tìm kiếm sản phẩm</a></li>
+                <li><a href="/Product/Hots">Danh sách bán chạy</a></li>
+                <li><a href="/Product/About">Giới thiệu</a></li>
+            </ul>
+            
+        </div>
+
+    </div>
+    
+    <div>
+        @RenderBody()
+    </div>
+    <hr/>
+    <div>
+        <p style="text-align:center">Copyright &copy; 2020</p>
+    </div>
+    <script src="~/js/LayoutHome.js"></script>
+    <script src="/lib/jquery/dist/jquery.js">.</script>
+</body>
+</html>
