@@ -97,3 +97,4 @@ C:\Users\MyXaoBo2Trung\source\MyWebApp\MyWebApp\obj\Debug\net10.0\MyWebApp.pdb
 C:\Users\MyXaoBo2Trung\source\MyWebApp\MyWebApp\obj\Debug\net10.0\MyWebApp.genruntimeconfig.cache
 C:\Users\MyXaoBo2Trung\source\MyWebApp\MyWebApp\obj\Debug\net10.0\ref\MyWebApp.dll
 C:\Users\MyXaoBo2Trung\source\MyWebApp\MyWebApp\obj\Debug\net10.0\MyWebApp.csproj.Up2Date
+C:\Users\MyXaoBo2Trung\source\MyWebApp\MyWebApp\obj\Debug\net10.0\compressed\pg7fekl1cl-{0}-m3lya2utec-m3lya2utec.gz
