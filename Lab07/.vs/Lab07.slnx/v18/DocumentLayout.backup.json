@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\Lab07\\",
+  "WorkspaceRootPath": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\LTW_Labs\\Lab07\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C0FF67A-FE84-4F3F-B07E-C02C85C8EAFF}|Bai3_Lab7\\Bai3_Lab7.csproj|c:\\users\\myxaobo2trung\\source\\repos\\lab07\\bai3_lab7\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7C0FF67A-FE84-4F3F-B07E-C02C85C8EAFF}|Bai3_Lab7\\Bai3_Lab7.csproj|c:\\users\\myxaobo2trung\\source\\repos\\ltw_labs\\lab07\\bai3_lab7\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7C0FF67A-FE84-4F3F-B07E-C02C85C8EAFF}|Bai3_Lab7\\Bai3_Lab7.csproj|solutionrelative:bai3_lab7\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C0FF67A-FE84-4F3F-B07E-C02C85C8EAFF}|Bai3_Lab7\\Bai3_Lab7.csproj|c:\\users\\myxaobo2trung\\source\\repos\\lab07\\bai3_lab7\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C0FF67A-FE84-4F3F-B07E-C02C85C8EAFF}|Bai3_Lab7\\Bai3_Lab7.csproj|c:\\users\\myxaobo2trung\\source\\repos\\ltw_labs\\lab07\\bai3_lab7\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C0FF67A-FE84-4F3F-B07E-C02C85C8EAFF}|Bai3_Lab7\\Bai3_Lab7.csproj|solutionrelative:bai3_lab7\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C0FF67A-FE84-4F3F-B07E-C02C85C8EAFF}|Bai3_Lab7\\Bai3_Lab7.csproj|c:\\users\\myxaobo2trung\\source\\repos\\lab07\\bai3_lab7\\areas\\admin\\views\\shared\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7C0FF67A-FE84-4F3F-B07E-C02C85C8EAFF}|Bai3_Lab7\\Bai3_Lab7.csproj|c:\\users\\myxaobo2trung\\source\\repos\\ltw_labs\\lab07\\bai3_lab7\\areas\\admin\\views\\shared\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7C0FF67A-FE84-4F3F-B07E-C02C85C8EAFF}|Bai3_Lab7\\Bai3_Lab7.csproj|solutionrelative:bai3_lab7\\areas\\admin\\views\\shared\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C0FF67A-FE84-4F3F-B07E-C02C85C8EAFF}|Bai3_Lab7\\Bai3_Lab7.csproj|c:\\users\\myxaobo2trung\\source\\repos\\lab07\\bai3_lab7\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7C0FF67A-FE84-4F3F-B07E-C02C85C8EAFF}|Bai3_Lab7\\Bai3_Lab7.csproj|c:\\users\\myxaobo2trung\\source\\repos\\ltw_labs\\lab07\\bai3_lab7\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7C0FF67A-FE84-4F3F-B07E-C02C85C8EAFF}|Bai3_Lab7\\Bai3_Lab7.csproj|solutionrelative:bai3_lab7\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C0FF67A-FE84-4F3F-B07E-C02C85C8EAFF}|Bai3_Lab7\\Bai3_Lab7.csproj|c:\\users\\myxaobo2trung\\source\\repos\\lab07\\bai3_lab7\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7C0FF67A-FE84-4F3F-B07E-C02C85C8EAFF}|Bai3_Lab7\\Bai3_Lab7.csproj|c:\\users\\myxaobo2trung\\source\\repos\\ltw_labs\\lab07\\bai3_lab7\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7C0FF67A-FE84-4F3F-B07E-C02C85C8EAFF}|Bai3_Lab7\\Bai3_Lab7.csproj|solutionrelative:bai3_lab7\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C0FF67A-FE84-4F3F-B07E-C02C85C8EAFF}|Bai3_Lab7\\Bai3_Lab7.csproj|c:\\users\\myxaobo2trung\\source\\repos\\lab07\\bai3_lab7\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7C0FF67A-FE84-4F3F-B07E-C02C85C8EAFF}|Bai3_Lab7\\Bai3_Lab7.csproj|c:\\users\\myxaobo2trung\\source\\repos\\ltw_labs\\lab07\\bai3_lab7\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7C0FF67A-FE84-4F3F-B07E-C02C85C8EAFF}|Bai3_Lab7\\Bai3_Lab7.csproj|solutionrelative:bai3_lab7\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C0FF67A-FE84-4F3F-B07E-C02C85C8EAFF}|Bai3_Lab7\\Bai3_Lab7.csproj|c:\\users\\myxaobo2trung\\source\\repos\\lab07\\bai3_lab7\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C0FF67A-FE84-4F3F-B07E-C02C85C8EAFF}|Bai3_Lab7\\Bai3_Lab7.csproj|c:\\users\\myxaobo2trung\\source\\repos\\ltw_labs\\lab07\\bai3_lab7\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C0FF67A-FE84-4F3F-B07E-C02C85C8EAFF}|Bai3_Lab7\\Bai3_Lab7.csproj|solutionrelative:bai3_lab7\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C0FF67A-FE84-4F3F-B07E-C02C85C8EAFF}|Bai3_Lab7\\Bai3_Lab7.csproj|c:\\users\\myxaobo2trung\\source\\repos\\lab07\\bai3_lab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C0FF67A-FE84-4F3F-B07E-C02C85C8EAFF}|Bai3_Lab7\\Bai3_Lab7.csproj|c:\\users\\myxaobo2trung\\source\\repos\\ltw_labs\\lab07\\bai3_lab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C0FF67A-FE84-4F3F-B07E-C02C85C8EAFF}|Bai3_Lab7\\Bai3_Lab7.csproj|solutionrelative:bai3_lab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,21 +42,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 298,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\Lab07\\Bai3_Lab7\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\LTW_Labs\\Lab07\\Bai3_Lab7\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "Bai3_Lab7\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\Lab07\\Bai3_Lab7\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\LTW_Labs\\Lab07\\Bai3_Lab7\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "RelativeToolTip": "Bai3_Lab7\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-10-17T11:51:54.8Z",
               "EditorCaption": ""
@@ -65,92 +69,85 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\Lab07\\Bai3_Lab7\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\LTW_Labs\\Lab07\\Bai3_Lab7\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "Bai3_Lab7\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\Lab07\\Bai3_Lab7\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\LTW_Labs\\Lab07\\Bai3_Lab7\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "Bai3_Lab7\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-17T11:51:23.889Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-17T11:51:23.889Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\Lab07\\Bai3_Lab7\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\LTW_Labs\\Lab07\\Bai3_Lab7\\Program.cs",
               "RelativeDocumentMoniker": "Bai3_Lab7\\Program.cs",
-              "ToolTip": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\Lab07\\Bai3_Lab7\\Program.cs",
+              "ToolTip": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\LTW_Labs\\Lab07\\Bai3_Lab7\\Program.cs",
               "RelativeToolTip": "Bai3_Lab7\\Program.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAiwB0AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-17T11:42:23.658Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-17T11:42:23.658Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\Lab07\\Bai3_Lab7\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\LTW_Labs\\Lab07\\Bai3_Lab7\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "Bai3_Lab7\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\Lab07\\Bai3_Lab7\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\LTW_Labs\\Lab07\\Bai3_Lab7\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeToolTip": "Bai3_Lab7\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-17T11:41:02.964Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-17T11:41:02.964Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\Lab07\\Bai3_Lab7\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\LTW_Labs\\Lab07\\Bai3_Lab7\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "Bai3_Lab7\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\Lab07\\Bai3_Lab7\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\LTW_Labs\\Lab07\\Bai3_Lab7\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "RelativeToolTip": "Bai3_Lab7\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-17T11:40:02.361Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-17T11:40:02.361Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\Lab07\\Bai3_Lab7\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\LTW_Labs\\Lab07\\Bai3_Lab7\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Bai3_Lab7\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\Lab07\\Bai3_Lab7\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\LTW_Labs\\Lab07\\Bai3_Lab7\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "Bai3_Lab7\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-17T11:38:42.156Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-17T11:38:42.156Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\Lab07\\Bai3_Lab7\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\LTW_Labs\\Lab07\\Bai3_Lab7\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Bai3_Lab7\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\Lab07\\Bai3_Lab7\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\LTW_Labs\\Lab07\\Bai3_Lab7\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "Bai3_Lab7\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-17T11:35:32.377Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-17T11:35:32.377Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Admin.cshtml",
-              "DocumentMoniker": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\Lab07\\Bai3_Lab7\\Areas\\Admin\\Views\\Shared\\Admin.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\LTW_Labs\\Lab07\\Bai3_Lab7\\Areas\\Admin\\Views\\Shared\\Admin.cshtml",
               "RelativeDocumentMoniker": "Bai3_Lab7\\Areas\\Admin\\Views\\Shared\\Admin.cshtml",
-              "ToolTip": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\Lab07\\Bai3_Lab7\\Areas\\Admin\\Views\\Shared\\Admin.cshtml",
+              "ToolTip": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\LTW_Labs\\Lab07\\Bai3_Lab7\\Areas\\Admin\\Views\\Shared\\Admin.cshtml",
               "RelativeToolTip": "Bai3_Lab7\\Areas\\Admin\\Views\\Shared\\Admin.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-17T11:33:52.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-17T11:33:52.449Z"
             }
           ]
         }

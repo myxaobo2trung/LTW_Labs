@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MyXaoBo2Trung\\source\\repos\\Lab07\\Bai3_Lab7\\Bai3_Lab7.csproj": {}
+    "C:\\Users\\MyXaoBo2Trung\\source\\repos\\LTW_Labs\\Lab07\\Bai3_Lab7\\Bai3_Lab7.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MyXaoBo2Trung\\source\\repos\\Lab07\\Bai3_Lab7\\Bai3_Lab7.csproj": {
+    "C:\\Users\\MyXaoBo2Trung\\source\\repos\\LTW_Labs\\Lab07\\Bai3_Lab7\\Bai3_Lab7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\Lab07\\Bai3_Lab7\\Bai3_Lab7.csproj",
+        "projectUniqueName": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\LTW_Labs\\Lab07\\Bai3_Lab7\\Bai3_Lab7.csproj",
         "projectName": "Bai3_Lab7",
-        "projectPath": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\Lab07\\Bai3_Lab7\\Bai3_Lab7.csproj",
+        "projectPath": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\LTW_Labs\\Lab07\\Bai3_Lab7\\Bai3_Lab7.csproj",
         "packagesPath": "C:\\Users\\MyXaoBo2Trung\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\Lab07\\Bai3_Lab7\\obj\\",
+        "outputPath": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\LTW_Labs\\Lab07\\Bai3_Lab7\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
