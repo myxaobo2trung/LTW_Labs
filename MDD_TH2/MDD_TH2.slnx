@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="DbFirstApp/DbFirstApp.csproj" Id="9f2f494b-d397-4eeb-85fd-e37b818cb524" />
+  <Project Path="MDD_TH2_Lab3/MDD_TH2_Lab3.csproj" />
+  <Project Path="MDD_TH2_Lab4/MDD_TH2_Lab4.csproj" />
+</Solution>

@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MyXaoBo2Trung\\source\\MDD_TH2_Lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01967542-8AA8-0FB4-732D-67A0BD4A8A69}|MDD_TH2_Lab4\\MDD_TH2_Lab4.csproj|c:\\users\\myxaobo2trung\\source\\mdd_th2_lab3\\mdd_th2_lab4\\models\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01967542-8AA8-0FB4-732D-67A0BD4A8A69}|MDD_TH2_Lab4\\MDD_TH2_Lab4.csproj|solutionrelative:mdd_th2_lab4\\models\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01967542-8AA8-0FB4-732D-67A0BD4A8A69}|MDD_TH2_Lab4\\MDD_TH2_Lab4.csproj|c:\\users\\myxaobo2trung\\source\\mdd_th2_lab3\\mdd_th2_lab4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01967542-8AA8-0FB4-732D-67A0BD4A8A69}|MDD_TH2_Lab4\\MDD_TH2_Lab4.csproj|solutionrelative:mdd_th2_lab4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01967542-8AA8-0FB4-732D-67A0BD4A8A69}|MDD_TH2_Lab4\\MDD_TH2_Lab4.csproj|c:\\users\\myxaobo2trung\\source\\mdd_th2_lab3\\mdd_th2_lab4\\views\\learner\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01967542-8AA8-0FB4-732D-67A0BD4A8A69}|MDD_TH2_Lab4\\MDD_TH2_Lab4.csproj|solutionrelative:mdd_th2_lab4\\views\\learner\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01967542-8AA8-0FB4-732D-67A0BD4A8A69}|MDD_TH2_Lab4\\MDD_TH2_Lab4.csproj|c:\\users\\myxaobo2trung\\source\\mdd_th2_lab3\\mdd_th2_lab4\\views\\learner\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01967542-8AA8-0FB4-732D-67A0BD4A8A69}|MDD_TH2_Lab4\\MDD_TH2_Lab4.csproj|solutionrelative:mdd_th2_lab4\\views\\learner\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01967542-8AA8-0FB4-732D-67A0BD4A8A69}|MDD_TH2_Lab4\\MDD_TH2_Lab4.csproj|c:\\users\\myxaobo2trung\\source\\mdd_th2_lab3\\mdd_th2_lab4\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01967542-8AA8-0FB4-732D-67A0BD4A8A69}|MDD_TH2_Lab4\\MDD_TH2_Lab4.csproj|solutionrelative:mdd_th2_lab4\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01967542-8AA8-0FB4-732D-67A0BD4A8A69}|MDD_TH2_Lab4\\MDD_TH2_Lab4.csproj|c:\\users\\myxaobo2trung\\source\\mdd_th2_lab3\\mdd_th2_lab4\\models\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01967542-8AA8-0FB4-732D-67A0BD4A8A69}|MDD_TH2_Lab4\\MDD_TH2_Lab4.csproj|solutionrelative:mdd_th2_lab4\\models\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01967542-8AA8-0FB4-732D-67A0BD4A8A69}|MDD_TH2_Lab4\\MDD_TH2_Lab4.csproj|c:\\users\\myxaobo2trung\\source\\mdd_th2_lab3\\mdd_th2_lab4\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01967542-8AA8-0FB4-732D-67A0BD4A8A69}|MDD_TH2_Lab4\\MDD_TH2_Lab4.csproj|solutionrelative:mdd_th2_lab4\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01967542-8AA8-0FB4-732D-67A0BD4A8A69}|MDD_TH2_Lab4\\MDD_TH2_Lab4.csproj|c:\\users\\myxaobo2trung\\source\\mdd_th2_lab3\\mdd_th2_lab4\\views\\learner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01967542-8AA8-0FB4-732D-67A0BD4A8A69}|MDD_TH2_Lab4\\MDD_TH2_Lab4.csproj|solutionrelative:mdd_th2_lab4\\views\\learner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01967542-8AA8-0FB4-732D-67A0BD4A8A69}|MDD_TH2_Lab4\\MDD_TH2_Lab4.csproj|c:\\users\\myxaobo2trung\\source\\mdd_th2_lab3\\mdd_th2_lab4\\views\\learner\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01967542-8AA8-0FB4-732D-67A0BD4A8A69}|MDD_TH2_Lab4\\MDD_TH2_Lab4.csproj|solutionrelative:mdd_th2_lab4\\views\\learner\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01967542-8AA8-0FB4-732D-67A0BD4A8A69}|MDD_TH2_Lab4\\MDD_TH2_Lab4.csproj|c:\\users\\myxaobo2trung\\source\\mdd_th2_lab3\\mdd_th2_lab4\\controllers\\learnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01967542-8AA8-0FB4-732D-67A0BD4A8A69}|MDD_TH2_Lab4\\MDD_TH2_Lab4.csproj|solutionrelative:mdd_th2_lab4\\controllers\\learnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01967542-8AA8-0FB4-732D-67A0BD4A8A69}|MDD_TH2_Lab4\\MDD_TH2_Lab4.csproj|c:\\users\\myxaobo2trung\\source\\mdd_th2_lab3\\mdd_th2_lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01967542-8AA8-0FB4-732D-67A0BD4A8A69}|MDD_TH2_Lab4\\MDD_TH2_Lab4.csproj|solutionrelative:mdd_th2_lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01967542-8AA8-0FB4-732D-67A0BD4A8A69}|MDD_TH2_Lab4\\MDD_TH2_Lab4.csproj|c:\\users\\myxaobo2trung\\source\\mdd_th2_lab3\\mdd_th2_lab4\\models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01967542-8AA8-0FB4-732D-67A0BD4A8A69}|MDD_TH2_Lab4\\MDD_TH2_Lab4.csproj|solutionrelative:mdd_th2_lab4\\models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01967542-8AA8-0FB4-732D-67A0BD4A8A69}|MDD_TH2_Lab4\\MDD_TH2_Lab4.csproj|c:\\users\\myxaobo2trung\\source\\mdd_th2_lab3\\mdd_th2_lab4\\models\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01967542-8AA8-0FB4-732D-67A0BD4A8A69}|MDD_TH2_Lab4\\MDD_TH2_Lab4.csproj|solutionrelative:mdd_th2_lab4\\models\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyXaoBo2Trung\\source\\MDD_TH2_Lab3\\MDD_TH2_Lab4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MDD_TH2_Lab4\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\MyXaoBo2Trung\\source\\MDD_TH2_Lab3\\MDD_TH2_Lab4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MDD_TH2_Lab4\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-28T01:39:58.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyXaoBo2Trung\\source\\MDD_TH2_Lab3\\MDD_TH2_Lab4\\Views\\Learner\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MDD_TH2_Lab4\\Views\\Learner\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\MyXaoBo2Trung\\source\\MDD_TH2_Lab3\\MDD_TH2_Lab4\\Views\\Learner\\Delete.cshtml",
+              "RelativeToolTip": "MDD_TH2_Lab4\\Views\\Learner\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-28T01:38:11.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyXaoBo2Trung\\source\\MDD_TH2_Lab3\\MDD_TH2_Lab4\\Views\\Learner\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MDD_TH2_Lab4\\Views\\Learner\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\MyXaoBo2Trung\\source\\MDD_TH2_Lab3\\MDD_TH2_Lab4\\Views\\Learner\\Edit.cshtml",
+              "RelativeToolTip": "MDD_TH2_Lab4\\Views\\Learner\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-28T01:37:47.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\MyXaoBo2Trung\\source\\MDD_TH2_Lab3\\MDD_TH2_Lab4\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "MDD_TH2_Lab4\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\MyXaoBo2Trung\\source\\MDD_TH2_Lab3\\MDD_TH2_Lab4\\Models\\Course.cs",
+              "RelativeToolTip": "MDD_TH2_Lab4\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T01:22:52.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\MyXaoBo2Trung\\source\\MDD_TH2_Lab3\\MDD_TH2_Lab4\\Models\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "MDD_TH2_Lab4\\Models\\Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\MyXaoBo2Trung\\source\\MDD_TH2_Lab3\\MDD_TH2_Lab4\\Models\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "MDD_TH2_Lab4\\Models\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T01:24:49.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "C:\\Users\\MyXaoBo2Trung\\source\\MDD_TH2_Lab3\\MDD_TH2_Lab4\\Models\\Data\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "MDD_TH2_Lab4\\Models\\Data\\SchoolContext.cs",
+              "ToolTip": "C:\\Users\\MyXaoBo2Trung\\source\\MDD_TH2_Lab3\\MDD_TH2_Lab4\\Models\\Data\\SchoolContext.cs",
+              "RelativeToolTip": "MDD_TH2_Lab4\\Models\\Data\\SchoolContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T01:23:59.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\MyXaoBo2Trung\\source\\MDD_TH2_Lab3\\MDD_TH2_Lab4\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "MDD_TH2_Lab4\\Models\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\MyXaoBo2Trung\\source\\MDD_TH2_Lab3\\MDD_TH2_Lab4\\Models\\Enrollment.cs",
+              "RelativeToolTip": "MDD_TH2_Lab4\\Models\\Enrollment.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAywAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T01:23:16.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyXaoBo2Trung\\source\\MDD_TH2_Lab3\\MDD_TH2_Lab4\\Views\\Learner\\Index.cshtml",
+              "RelativeDocumentMoniker": "MDD_TH2_Lab4\\Views\\Learner\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MyXaoBo2Trung\\source\\MDD_TH2_Lab3\\MDD_TH2_Lab4\\Views\\Learner\\Index.cshtml",
+              "RelativeToolTip": "MDD_TH2_Lab4\\Views\\Learner\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-28T01:36:10.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyXaoBo2Trung\\source\\MDD_TH2_Lab3\\MDD_TH2_Lab4\\Views\\Learner\\Create.cshtml",
+              "RelativeDocumentMoniker": "MDD_TH2_Lab4\\Views\\Learner\\Create.cshtml",
+              "ToolTip": "C:\\Users\\MyXaoBo2Trung\\source\\MDD_TH2_Lab3\\MDD_TH2_Lab4\\Views\\Learner\\Create.cshtml",
+              "RelativeToolTip": "MDD_TH2_Lab4\\Views\\Learner\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-28T01:36:41.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LearnerController.cs",
+              "DocumentMoniker": "C:\\Users\\MyXaoBo2Trung\\source\\MDD_TH2_Lab3\\MDD_TH2_Lab4\\Controllers\\LearnerController.cs",
+              "RelativeDocumentMoniker": "MDD_TH2_Lab4\\Controllers\\LearnerController.cs",
+              "ToolTip": "C:\\Users\\MyXaoBo2Trung\\source\\MDD_TH2_Lab3\\MDD_TH2_Lab4\\Controllers\\LearnerController.cs",
+              "RelativeToolTip": "MDD_TH2_Lab4\\Controllers\\LearnerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T01:34:26.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MyXaoBo2Trung\\source\\MDD_TH2_Lab3\\MDD_TH2_Lab4\\Program.cs",
+              "RelativeDocumentMoniker": "MDD_TH2_Lab4\\Program.cs",
+              "ToolTip": "C:\\Users\\MyXaoBo2Trung\\source\\MDD_TH2_Lab3\\MDD_TH2_Lab4\\Program.cs",
+              "RelativeToolTip": "MDD_TH2_Lab4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T01:25:29.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Learner.cs",
+              "DocumentMoniker": "C:\\Users\\MyXaoBo2Trung\\source\\MDD_TH2_Lab3\\MDD_TH2_Lab4\\Models\\Learner.cs",
+              "RelativeDocumentMoniker": "MDD_TH2_Lab4\\Models\\Learner.cs",
+              "ToolTip": "C:\\Users\\MyXaoBo2Trung\\source\\MDD_TH2_Lab3\\MDD_TH2_Lab4\\Models\\Learner.cs",
+              "RelativeToolTip": "MDD_TH2_Lab4\\Models\\Learner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T01:22:26.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Major.cs",
+              "DocumentMoniker": "C:\\Users\\MyXaoBo2Trung\\source\\MDD_TH2_Lab3\\MDD_TH2_Lab4\\Models\\Major.cs",
+              "RelativeDocumentMoniker": "MDD_TH2_Lab4\\Models\\Major.cs",
+              "ToolTip": "C:\\Users\\MyXaoBo2Trung\\source\\MDD_TH2_Lab3\\MDD_TH2_Lab4\\Models\\Major.cs",
+              "RelativeToolTip": "MDD_TH2_Lab4\\Models\\Major.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T01:22:04.758Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
