@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MyXaoBo2Trung\\source\\MDD_TH2_Lab3\\MDD_TH2_Lab4\\MDD_TH2_Lab4.csproj": {}
+    "C:\\Users\\MyXaoBo2Trung\\source\\repos\\LTW_Labs\\MDD_TH2\\MDD_TH2_Lab4\\MDD_TH2_Lab4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MyXaoBo2Trung\\source\\MDD_TH2_Lab3\\MDD_TH2_Lab4\\MDD_TH2_Lab4.csproj": {
+    "C:\\Users\\MyXaoBo2Trung\\source\\repos\\LTW_Labs\\MDD_TH2\\MDD_TH2_Lab4\\MDD_TH2_Lab4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MyXaoBo2Trung\\source\\MDD_TH2_Lab3\\MDD_TH2_Lab4\\MDD_TH2_Lab4.csproj",
+        "projectUniqueName": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\LTW_Labs\\MDD_TH2\\MDD_TH2_Lab4\\MDD_TH2_Lab4.csproj",
         "projectName": "MDD_TH2_Lab4",
-        "projectPath": "C:\\Users\\MyXaoBo2Trung\\source\\MDD_TH2_Lab3\\MDD_TH2_Lab4\\MDD_TH2_Lab4.csproj",
+        "projectPath": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\LTW_Labs\\MDD_TH2\\MDD_TH2_Lab4\\MDD_TH2_Lab4.csproj",
         "packagesPath": "C:\\Users\\MyXaoBo2Trung\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MyXaoBo2Trung\\source\\MDD_TH2_Lab3\\MDD_TH2_Lab4\\obj\\",
+        "outputPath": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\LTW_Labs\\MDD_TH2\\MDD_TH2_Lab4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -54,23 +54,23 @@
           "dependencies": {
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.21, )"
+              "version": "[8.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[10.0.9, )"
+              "version": "[8.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[6.0.21, )"
+              "version": "[8.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[10.0.9, )"
+              "version": "[8.0.11, )"
             }
           },
           "imports": [

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hbeThwXJpn4=",
+  "dgSpecHash": "18pQxxvmTvU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\MyXaoBo2Trung\\source\\MDD_TH2_Lab3\\MDD_TH2_Lab3\\MDD_TH2_Lab3.csproj",
+  "projectFilePath": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\LTW_Labs\\MDD_TH2\\MDD_TH2_Lab3\\MDD_TH2_Lab3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MyXaoBo2Trung\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\6.0.10\\microsoft.aspnetcore.diagnostics.entityframeworkcore.6.0.10.nupkg.sha512",
     "C:\\Users\\MyXaoBo2Trung\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
@@ -33,9 +33,9 @@
       "code": "NU1903",
       "level": "Warning",
       "message": "Package 'Microsoft.Data.SqlClient' 2.1.4 has a known high severity vulnerability, https://github.com/advisories/GHSA-98g6-xh36-x2p7",
-      "projectPath": "C:\\Users\\MyXaoBo2Trung\\source\\MDD_TH2_Lab3\\MDD_TH2_Lab3\\MDD_TH2_Lab3.csproj",
+      "projectPath": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\LTW_Labs\\MDD_TH2\\MDD_TH2_Lab3\\MDD_TH2_Lab3.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\MyXaoBo2Trung\\source\\MDD_TH2_Lab3\\MDD_TH2_Lab3\\MDD_TH2_Lab3.csproj",
+      "filePath": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\LTW_Labs\\MDD_TH2\\MDD_TH2_Lab3\\MDD_TH2_Lab3.csproj",
       "libraryId": "Microsoft.Data.SqlClient",
       "targetGraphs": [
         "net10.0"
@@ -45,9 +45,9 @@
       "code": "NU1902",
       "level": "Warning",
       "message": "Package 'Microsoft.IdentityModel.JsonWebTokens' 6.8.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-59j7-ghrg-fj52",
-      "projectPath": "C:\\Users\\MyXaoBo2Trung\\source\\MDD_TH2_Lab3\\MDD_TH2_Lab3\\MDD_TH2_Lab3.csproj",
+      "projectPath": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\LTW_Labs\\MDD_TH2\\MDD_TH2_Lab3\\MDD_TH2_Lab3.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\MyXaoBo2Trung\\source\\MDD_TH2_Lab3\\MDD_TH2_Lab3\\MDD_TH2_Lab3.csproj",
+      "filePath": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\LTW_Labs\\MDD_TH2\\MDD_TH2_Lab3\\MDD_TH2_Lab3.csproj",
       "libraryId": "Microsoft.IdentityModel.JsonWebTokens",
       "targetGraphs": [
         "net10.0"
@@ -57,9 +57,9 @@
       "code": "NU1904",
       "level": "Warning",
       "message": "Package 'System.Drawing.Common' 4.7.0 has a known critical severity vulnerability, https://github.com/advisories/GHSA-rxg9-xrhp-64gj",
-      "projectPath": "C:\\Users\\MyXaoBo2Trung\\source\\MDD_TH2_Lab3\\MDD_TH2_Lab3\\MDD_TH2_Lab3.csproj",
+      "projectPath": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\LTW_Labs\\MDD_TH2\\MDD_TH2_Lab3\\MDD_TH2_Lab3.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\MyXaoBo2Trung\\source\\MDD_TH2_Lab3\\MDD_TH2_Lab3\\MDD_TH2_Lab3.csproj",
+      "filePath": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\LTW_Labs\\MDD_TH2\\MDD_TH2_Lab3\\MDD_TH2_Lab3.csproj",
       "libraryId": "System.Drawing.Common",
       "targetGraphs": [
         "net10.0"
@@ -69,9 +69,9 @@
       "code": "NU1902",
       "level": "Warning",
       "message": "Package 'System.IdentityModel.Tokens.Jwt' 6.8.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-59j7-ghrg-fj52",
-      "projectPath": "C:\\Users\\MyXaoBo2Trung\\source\\MDD_TH2_Lab3\\MDD_TH2_Lab3\\MDD_TH2_Lab3.csproj",
+      "projectPath": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\LTW_Labs\\MDD_TH2\\MDD_TH2_Lab3\\MDD_TH2_Lab3.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\MyXaoBo2Trung\\source\\MDD_TH2_Lab3\\MDD_TH2_Lab3\\MDD_TH2_Lab3.csproj",
+      "filePath": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\LTW_Labs\\MDD_TH2\\MDD_TH2_Lab3\\MDD_TH2_Lab3.csproj",
       "libraryId": "System.IdentityModel.Tokens.Jwt",
       "targetGraphs": [
         "net10.0"

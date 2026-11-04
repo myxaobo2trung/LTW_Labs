@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MyXaoBo2Trung\\source\\MDD_TH2_Lab3\\DbFirstApp\\DbFirstApp.csproj",
+      "projectUniqueName": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\LTW_Labs\\MDD_TH2\\DbFirstApp\\DbFirstApp.csproj",
       "projectName": "DbFirstApp",
-      "projectPath": "C:\\Users\\MyXaoBo2Trung\\source\\MDD_TH2_Lab3\\DbFirstApp\\DbFirstApp.csproj",
+      "projectPath": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\LTW_Labs\\MDD_TH2\\DbFirstApp\\DbFirstApp.csproj",
       "packagesPath": "C:\\Users\\MyXaoBo2Trung\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MyXaoBo2Trung\\source\\MDD_TH2_Lab3\\DbFirstApp\\obj\\",
+      "outputPath": "C:\\Users\\MyXaoBo2Trung\\source\\repos\\LTW_Labs\\MDD_TH2\\DbFirstApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
