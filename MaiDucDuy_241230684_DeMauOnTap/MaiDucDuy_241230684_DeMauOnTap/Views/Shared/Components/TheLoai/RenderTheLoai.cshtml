@@ -1,0 +1,13 @@
+﻿@model IEnumerable<MaiDucDuy_241230684_DeMauOnTap.Models.TheLoai>
+<ul class="menu">
+    <li class="active">
+        <a href="javascript:void(0)" class="nav-category" data-id="0">Họ tên sinh viên</a>
+    </li>
+    @foreach (var tl in Model)
+    {
+        <li>
+            <a href="javascript:void(0)" class="nav-category" data-id="@tl.MaTl">@tl.TenTl</a>
+        </li>
+    }
+</ul>
+

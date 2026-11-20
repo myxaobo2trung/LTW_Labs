@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MyXaoBo2Trung\\source\\MaiDucDuy_241230684_DeMauOnTap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E453A4A-5E55-4B59-8CB7-537E0106D9A9}|MaiDucDuy_241230684_DeMauOnTap\\MaiDucDuy_241230684_DeMauOnTap.csproj|c:\\users\\myxaobo2trung\\source\\maiducduy_241230684_demauontap\\maiducduy_241230684_demauontap\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E453A4A-5E55-4B59-8CB7-537E0106D9A9}|MaiDucDuy_241230684_DeMauOnTap\\MaiDucDuy_241230684_DeMauOnTap.csproj|solutionrelative:maiducduy_241230684_demauontap\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E453A4A-5E55-4B59-8CB7-537E0106D9A9}|MaiDucDuy_241230684_DeMauOnTap\\MaiDucDuy_241230684_DeMauOnTap.csproj|c:\\users\\myxaobo2trung\\source\\maiducduy_241230684_demauontap\\maiducduy_241230684_demauontap\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E453A4A-5E55-4B59-8CB7-537E0106D9A9}|MaiDucDuy_241230684_DeMauOnTap\\MaiDucDuy_241230684_DeMauOnTap.csproj|solutionrelative:maiducduy_241230684_demauontap\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E453A4A-5E55-4B59-8CB7-537E0106D9A9}|MaiDucDuy_241230684_DeMauOnTap\\MaiDucDuy_241230684_DeMauOnTap.csproj|c:\\users\\myxaobo2trung\\source\\maiducduy_241230684_demauontap\\maiducduy_241230684_demauontap\\models\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E453A4A-5E55-4B59-8CB7-537E0106D9A9}|MaiDucDuy_241230684_DeMauOnTap\\MaiDucDuy_241230684_DeMauOnTap.csproj|solutionrelative:maiducduy_241230684_demauontap\\models\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E453A4A-5E55-4B59-8CB7-537E0106D9A9}|MaiDucDuy_241230684_DeMauOnTap\\MaiDucDuy_241230684_DeMauOnTap.csproj|c:\\users\\myxaobo2trung\\source\\maiducduy_241230684_demauontap\\maiducduy_241230684_demauontap\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4E453A4A-5E55-4B59-8CB7-537E0106D9A9}|MaiDucDuy_241230684_DeMauOnTap\\MaiDucDuy_241230684_DeMauOnTap.csproj|solutionrelative:maiducduy_241230684_demauontap\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E453A4A-5E55-4B59-8CB7-537E0106D9A9}|MaiDucDuy_241230684_DeMauOnTap\\MaiDucDuy_241230684_DeMauOnTap.csproj|c:\\users\\myxaobo2trung\\source\\maiducduy_241230684_demauontap\\maiducduy_241230684_demauontap\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E453A4A-5E55-4B59-8CB7-537E0106D9A9}|MaiDucDuy_241230684_DeMauOnTap\\MaiDucDuy_241230684_DeMauOnTap.csproj|solutionrelative:maiducduy_241230684_demauontap\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyXaoBo2Trung\\source\\MaiDucDuy_241230684_DeMauOnTap\\MaiDucDuy_241230684_DeMauOnTap\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "MaiDucDuy_241230684_DeMauOnTap\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\MyXaoBo2Trung\\source\\MaiDucDuy_241230684_DeMauOnTap\\MaiDucDuy_241230684_DeMauOnTap\\Views\\Home\\Create.cshtml*",
+              "RelativeToolTip": "MaiDucDuy_241230684_DeMauOnTap\\Views\\Home\\Create.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-19T13:44:43.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sach.cs",
+              "DocumentMoniker": "C:\\Users\\MyXaoBo2Trung\\source\\MaiDucDuy_241230684_DeMauOnTap\\MaiDucDuy_241230684_DeMauOnTap\\Models\\Sach.cs",
+              "RelativeDocumentMoniker": "MaiDucDuy_241230684_DeMauOnTap\\Models\\Sach.cs",
+              "ToolTip": "C:\\Users\\MyXaoBo2Trung\\source\\MaiDucDuy_241230684_DeMauOnTap\\MaiDucDuy_241230684_DeMauOnTap\\Models\\Sach.cs",
+              "RelativeToolTip": "MaiDucDuy_241230684_DeMauOnTap\\Models\\Sach.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T13:35:12.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.js",
+              "DocumentMoniker": "C:\\Users\\MyXaoBo2Trung\\source\\MaiDucDuy_241230684_DeMauOnTap\\MaiDucDuy_241230684_DeMauOnTap\\wwwroot\\js\\main.js",
+              "RelativeDocumentMoniker": "MaiDucDuy_241230684_DeMauOnTap\\wwwroot\\js\\main.js",
+              "ToolTip": "C:\\Users\\MyXaoBo2Trung\\source\\MaiDucDuy_241230684_DeMauOnTap\\MaiDucDuy_241230684_DeMauOnTap\\wwwroot\\js\\main.js",
+              "RelativeToolTip": "MaiDucDuy_241230684_DeMauOnTap\\wwwroot\\js\\main.js",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-11-19T13:23:42.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyXaoBo2Trung\\source\\MaiDucDuy_241230684_DeMauOnTap\\MaiDucDuy_241230684_DeMauOnTap\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MaiDucDuy_241230684_DeMauOnTap\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MyXaoBo2Trung\\source\\MaiDucDuy_241230684_DeMauOnTap\\MaiDucDuy_241230684_DeMauOnTap\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MaiDucDuy_241230684_DeMauOnTap\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-19T13:22:47.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\MyXaoBo2Trung\\source\\MaiDucDuy_241230684_DeMauOnTap\\MaiDucDuy_241230684_DeMauOnTap\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MaiDucDuy_241230684_DeMauOnTap\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\MyXaoBo2Trung\\source\\MaiDucDuy_241230684_DeMauOnTap\\MaiDucDuy_241230684_DeMauOnTap\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MaiDucDuy_241230684_DeMauOnTap\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAswEQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T13:18:11.698Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
