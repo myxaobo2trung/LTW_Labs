@@ -1,0 +1,39 @@
+﻿@model MaiDucDuy_241230684_DeThiMau.Models.HangHoa
+
+<div style="padding: 15px 0;">
+    <h2 style="font-size:18px; font-weight:bold; margin-bottom:4px;">HỌ TÊN SINH VIÊN</h2>
+    <h3 style="font-size:16px; margin-bottom:15px;">Thêm Hàng Hóa Mới</h3>
+    <hr style="margin-bottom:15px;" />
+
+    <form asp-action="Create" method="post" style="max-width:350px;">
+        <div style="margin-bottom:10px;">
+            <label asp-for="MaLoai" style="display:block; margin-bottom:4px;">MaLoai</label>
+            <select asp-for="MaLoai" asp-items="ViewBag.MaLoai" style="padding:4px 8px;"></select>
+            <span asp-validation-for="MaLoai" style="color:red; display:block; font-size:13px;"></span>
+        </div>
+
+        <div style="margin-bottom:10px;">
+            <label asp-for="TenHang" style="display:block; margin-bottom:4px;">TenHang</label>
+            <input asp-for="TenHang" style="width:100%; padding:5px;" />
+            <span asp-validation-for="TenHang" style="color:red; display:block; font-size:13px;"></span>
+        </div>
+
+        <div style="margin-bottom:10px;">
+            <label asp-for="Gia" style="display:block; margin-bottom:4px;">Gia</label>
+            <input asp-for="Gia" style="width:100%; padding:5px;" />
+            <span asp-validation-for="Gia" style="color:red; display:block; font-size:13px;"></span>
+        </div>
+
+        <div style="margin-bottom:12px;">
+            <label asp-for="Anh" style="display:block; margin-bottom:4px;">Anh</label>
+            <input asp-for="Anh" placeholder="" style="width:100%; padding:5px;" />
+            <span asp-validation-for="Anh" style="color:red; display:block; font-size:13px;"></span>
+        </div>
+
+        <button type="submit" style="padding:5px 14px; cursor:pointer;">Create</button>
+    </form>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

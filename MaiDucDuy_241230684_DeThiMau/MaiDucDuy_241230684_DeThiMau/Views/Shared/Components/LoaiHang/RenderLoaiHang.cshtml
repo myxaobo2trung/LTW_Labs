@@ -1,0 +1,13 @@
+﻿@model IEnumerable<MaiDucDuy_241230684_DeThiMau.Models.LoaiHang>
+<ul>
+    <li class="active">
+        <a href="#" class="nav_loai" data-id ="0">Họ tên sinh viên</a>
+    </li>
+    @foreach (var item in Model)
+    {
+        <li>
+            <a href="#" class="nav-loai" data-id="@item.MaLoai">@item.TenLoai</a>
+        </li>
+    }
+    <div class="clear"></div>
+</ul>
